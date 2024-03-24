@@ -23,7 +23,6 @@
      POSTGRES_DB=postgres
      POSTGRES_USER=postgres
      POSTGRES_PASSWORD=password
-     OPENAI_API_KEY=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
      ```
 
      Note that the above values are related to PostgreSQL. You can modify them according to your actual setup. Additionally, `OPENAI_API_KEY` is optional. If you don't need to use the OpenAI service, you can omit setting it.

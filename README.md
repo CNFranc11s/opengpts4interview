@@ -23,7 +23,6 @@
      POSTGRES_DB=postgres
      POSTGRES_USER=postgres
      POSTGRES_PASSWORD=password
-     OPENAI_API_KEY=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
      ```
 
      请注意，上述是 PostgreSQL 相关的信息，您可以根据您的实际情况进行修改。
